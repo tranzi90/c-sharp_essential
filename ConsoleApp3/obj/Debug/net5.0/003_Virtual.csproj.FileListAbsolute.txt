@@ -1,0 +1,16 @@
+D:\Abstraction\ConsoleApp3\bin\Debug\net5.0\003_Virtual.exe
+D:\Abstraction\ConsoleApp3\bin\Debug\net5.0\003_Virtual.deps.json
+D:\Abstraction\ConsoleApp3\bin\Debug\net5.0\003_Virtual.runtimeconfig.json
+D:\Abstraction\ConsoleApp3\bin\Debug\net5.0\003_Virtual.runtimeconfig.dev.json
+D:\Abstraction\ConsoleApp3\bin\Debug\net5.0\003_Virtual.dll
+D:\Abstraction\ConsoleApp3\bin\Debug\net5.0\ref\003_Virtual.dll
+D:\Abstraction\ConsoleApp3\bin\Debug\net5.0\003_Virtual.pdb
+D:\Abstraction\ConsoleApp3\obj\Debug\net5.0\003_Virtual.csproj.AssemblyReference.cache
+D:\Abstraction\ConsoleApp3\obj\Debug\net5.0\003_Virtual.GeneratedMSBuildEditorConfig.editorconfig
+D:\Abstraction\ConsoleApp3\obj\Debug\net5.0\003_Virtual.AssemblyInfoInputs.cache
+D:\Abstraction\ConsoleApp3\obj\Debug\net5.0\003_Virtual.AssemblyInfo.cs
+D:\Abstraction\ConsoleApp3\obj\Debug\net5.0\003_Virtual.csproj.CoreCompileInputs.cache
+D:\Abstraction\ConsoleApp3\obj\Debug\net5.0\003_Virtual.dll
+D:\Abstraction\ConsoleApp3\obj\Debug\net5.0\ref\003_Virtual.dll
+D:\Abstraction\ConsoleApp3\obj\Debug\net5.0\003_Virtual.pdb
+D:\Abstraction\ConsoleApp3\obj\Debug\net5.0\003_Virtual.genruntimeconfig.cache

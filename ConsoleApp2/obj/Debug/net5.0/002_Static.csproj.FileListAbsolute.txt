@@ -1,0 +1,16 @@
+D:\Abstraction\ConsoleApp2\bin\Debug\net5.0\002_Static.exe
+D:\Abstraction\ConsoleApp2\bin\Debug\net5.0\002_Static.deps.json
+D:\Abstraction\ConsoleApp2\bin\Debug\net5.0\002_Static.runtimeconfig.json
+D:\Abstraction\ConsoleApp2\bin\Debug\net5.0\002_Static.runtimeconfig.dev.json
+D:\Abstraction\ConsoleApp2\bin\Debug\net5.0\002_Static.dll
+D:\Abstraction\ConsoleApp2\bin\Debug\net5.0\ref\002_Static.dll
+D:\Abstraction\ConsoleApp2\bin\Debug\net5.0\002_Static.pdb
+D:\Abstraction\ConsoleApp2\obj\Debug\net5.0\002_Static.csproj.AssemblyReference.cache
+D:\Abstraction\ConsoleApp2\obj\Debug\net5.0\002_Static.GeneratedMSBuildEditorConfig.editorconfig
+D:\Abstraction\ConsoleApp2\obj\Debug\net5.0\002_Static.AssemblyInfoInputs.cache
+D:\Abstraction\ConsoleApp2\obj\Debug\net5.0\002_Static.AssemblyInfo.cs
+D:\Abstraction\ConsoleApp2\obj\Debug\net5.0\002_Static.csproj.CoreCompileInputs.cache
+D:\Abstraction\ConsoleApp2\obj\Debug\net5.0\002_Static.dll
+D:\Abstraction\ConsoleApp2\obj\Debug\net5.0\ref\002_Static.dll
+D:\Abstraction\ConsoleApp2\obj\Debug\net5.0\002_Static.pdb
+D:\Abstraction\ConsoleApp2\obj\Debug\net5.0\002_Static.genruntimeconfig.cache

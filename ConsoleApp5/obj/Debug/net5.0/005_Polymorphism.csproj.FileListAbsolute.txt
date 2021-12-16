@@ -1,0 +1,16 @@
+D:\Abstraction\ConsoleApp5\bin\Debug\net5.0\005_Polymorphism.exe
+D:\Abstraction\ConsoleApp5\bin\Debug\net5.0\005_Polymorphism.deps.json
+D:\Abstraction\ConsoleApp5\bin\Debug\net5.0\005_Polymorphism.runtimeconfig.json
+D:\Abstraction\ConsoleApp5\bin\Debug\net5.0\005_Polymorphism.runtimeconfig.dev.json
+D:\Abstraction\ConsoleApp5\bin\Debug\net5.0\005_Polymorphism.dll
+D:\Abstraction\ConsoleApp5\bin\Debug\net5.0\ref\005_Polymorphism.dll
+D:\Abstraction\ConsoleApp5\bin\Debug\net5.0\005_Polymorphism.pdb
+D:\Abstraction\ConsoleApp5\obj\Debug\net5.0\005_Polymorphism.csproj.AssemblyReference.cache
+D:\Abstraction\ConsoleApp5\obj\Debug\net5.0\005_Polymorphism.GeneratedMSBuildEditorConfig.editorconfig
+D:\Abstraction\ConsoleApp5\obj\Debug\net5.0\005_Polymorphism.AssemblyInfoInputs.cache
+D:\Abstraction\ConsoleApp5\obj\Debug\net5.0\005_Polymorphism.AssemblyInfo.cs
+D:\Abstraction\ConsoleApp5\obj\Debug\net5.0\005_Polymorphism.csproj.CoreCompileInputs.cache
+D:\Abstraction\ConsoleApp5\obj\Debug\net5.0\005_Polymorphism.dll
+D:\Abstraction\ConsoleApp5\obj\Debug\net5.0\ref\005_Polymorphism.dll
+D:\Abstraction\ConsoleApp5\obj\Debug\net5.0\005_Polymorphism.pdb
+D:\Abstraction\ConsoleApp5\obj\Debug\net5.0\005_Polymorphism.genruntimeconfig.cache

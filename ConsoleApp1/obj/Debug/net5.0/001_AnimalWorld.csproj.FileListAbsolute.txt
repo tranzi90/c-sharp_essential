@@ -1,0 +1,16 @@
+D:\Abstraction\ConsoleApp1\bin\Debug\net5.0\001_AnimalWorld.exe
+D:\Abstraction\ConsoleApp1\bin\Debug\net5.0\001_AnimalWorld.deps.json
+D:\Abstraction\ConsoleApp1\bin\Debug\net5.0\001_AnimalWorld.runtimeconfig.json
+D:\Abstraction\ConsoleApp1\bin\Debug\net5.0\001_AnimalWorld.runtimeconfig.dev.json
+D:\Abstraction\ConsoleApp1\bin\Debug\net5.0\001_AnimalWorld.dll
+D:\Abstraction\ConsoleApp1\bin\Debug\net5.0\ref\001_AnimalWorld.dll
+D:\Abstraction\ConsoleApp1\bin\Debug\net5.0\001_AnimalWorld.pdb
+D:\Abstraction\ConsoleApp1\obj\Debug\net5.0\001_AnimalWorld.csproj.AssemblyReference.cache
+D:\Abstraction\ConsoleApp1\obj\Debug\net5.0\001_AnimalWorld.GeneratedMSBuildEditorConfig.editorconfig
+D:\Abstraction\ConsoleApp1\obj\Debug\net5.0\001_AnimalWorld.AssemblyInfoInputs.cache
+D:\Abstraction\ConsoleApp1\obj\Debug\net5.0\001_AnimalWorld.AssemblyInfo.cs
+D:\Abstraction\ConsoleApp1\obj\Debug\net5.0\001_AnimalWorld.csproj.CoreCompileInputs.cache
+D:\Abstraction\ConsoleApp1\obj\Debug\net5.0\001_AnimalWorld.dll
+D:\Abstraction\ConsoleApp1\obj\Debug\net5.0\ref\001_AnimalWorld.dll
+D:\Abstraction\ConsoleApp1\obj\Debug\net5.0\001_AnimalWorld.pdb
+D:\Abstraction\ConsoleApp1\obj\Debug\net5.0\001_AnimalWorld.genruntimeconfig.cache

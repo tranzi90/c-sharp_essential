@@ -1,0 +1,26 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net5.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Remove="ConsoleApp1\**" />
+    <Compile Remove="ConsoleApp2\**" />
+    <Compile Remove="ConsoleApp3\**" />
+    <Compile Remove="ConsoleApp4\**" />
+    <Compile Remove="ConsoleApp5\**" />
+    <EmbeddedResource Remove="ConsoleApp1\**" />
+    <EmbeddedResource Remove="ConsoleApp2\**" />
+    <EmbeddedResource Remove="ConsoleApp3\**" />
+    <EmbeddedResource Remove="ConsoleApp4\**" />
+    <EmbeddedResource Remove="ConsoleApp5\**" />
+    <None Remove="ConsoleApp1\**" />
+    <None Remove="ConsoleApp2\**" />
+    <None Remove="ConsoleApp3\**" />
+    <None Remove="ConsoleApp4\**" />
+    <None Remove="ConsoleApp5\**" />
+  </ItemGroup>
+
+</Project>
