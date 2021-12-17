@@ -6,15 +6,15 @@
   "compilationOptions": {},
   "targets": {
     ".NETCoreApp,Version=v5.0": {
-      "001_AnimalWorld/1.0.0": {
+      "001_Interfaces/1.0.0": {
         "runtime": {
-          "001_AnimalWorld.dll": {}
+          "001_Interfaces.dll": {}
         }
       }
     }
   },
   "libraries": {
-    "001_AnimalWorld/1.0.0": {
+    "001_Interfaces/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

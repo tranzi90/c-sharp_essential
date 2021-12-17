@@ -8,24 +8,31 @@
     "net5.0": []
   },
   "packageFolders": {
-    "/Users/denis_levchenko/.nuget/packages/": {}
+    "C:\\Users\\B\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/denis_levchenko/Downloads/csharp-oop_abstract-class-operation-materials/Abstraction/ConsoleApp1/001_AnimalWorld.csproj",
-      "projectName": "001_AnimalWorld",
-      "projectPath": "/Users/denis_levchenko/Downloads/csharp-oop_abstract-class-operation-materials/Abstraction/ConsoleApp1/001_AnimalWorld.csproj",
-      "packagesPath": "/Users/denis_levchenko/.nuget/packages/",
-      "outputPath": "/Users/denis_levchenko/Downloads/csharp-oop_abstract-class-operation-materials/Abstraction/ConsoleApp1/obj/",
+      "projectUniqueName": "C:\\Users\\B\\Google Диск\\Work\\ITVDN\\Тексты\\Проверить\\_C# Базовый\\009 Интерфейсы\\Interfaces\\ConsoleApp1\\001_Interfaces.csproj",
+      "projectName": "001_Interfaces",
+      "projectPath": "C:\\Users\\B\\Google Диск\\Work\\ITVDN\\Тексты\\Проверить\\_C# Базовый\\009 Интерфейсы\\Interfaces\\ConsoleApp1\\001_Interfaces.csproj",
+      "packagesPath": "C:\\Users\\B\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\B\\Google Диск\\Work\\ITVDN\\Тексты\\Проверить\\_C# Базовый\\009 Интерфейсы\\Interfaces\\ConsoleApp1\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
+      ],
       "configFilePaths": [
-        "/Users/denis_levchenko/.nuget/NuGet/NuGet.Config"
+        "C:\\Users\\B\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
       ],
       "originalTargetFrameworks": [
         "net5.0"
       ],
       "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -58,7 +65,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.100/RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.301\\RuntimeIdentifierGraph.json"
       }
     }
   }

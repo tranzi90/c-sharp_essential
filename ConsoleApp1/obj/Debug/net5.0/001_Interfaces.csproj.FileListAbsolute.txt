@@ -1,0 +1,16 @@
+D:\Interfaces\ConsoleApp1\bin\Debug\net5.0\001_Interfaces.exe
+D:\Interfaces\ConsoleApp1\bin\Debug\net5.0\001_Interfaces.deps.json
+D:\Interfaces\ConsoleApp1\bin\Debug\net5.0\001_Interfaces.runtimeconfig.json
+D:\Interfaces\ConsoleApp1\bin\Debug\net5.0\001_Interfaces.runtimeconfig.dev.json
+D:\Interfaces\ConsoleApp1\bin\Debug\net5.0\001_Interfaces.dll
+D:\Interfaces\ConsoleApp1\bin\Debug\net5.0\ref\001_Interfaces.dll
+D:\Interfaces\ConsoleApp1\bin\Debug\net5.0\001_Interfaces.pdb
+D:\Interfaces\ConsoleApp1\obj\Debug\net5.0\001_Interfaces.csproj.AssemblyReference.cache
+D:\Interfaces\ConsoleApp1\obj\Debug\net5.0\001_Interfaces.GeneratedMSBuildEditorConfig.editorconfig
+D:\Interfaces\ConsoleApp1\obj\Debug\net5.0\001_Interfaces.AssemblyInfoInputs.cache
+D:\Interfaces\ConsoleApp1\obj\Debug\net5.0\001_Interfaces.AssemblyInfo.cs
+D:\Interfaces\ConsoleApp1\obj\Debug\net5.0\001_Interfaces.csproj.CoreCompileInputs.cache
+D:\Interfaces\ConsoleApp1\obj\Debug\net5.0\001_Interfaces.dll
+D:\Interfaces\ConsoleApp1\obj\Debug\net5.0\ref\001_Interfaces.dll
+D:\Interfaces\ConsoleApp1\obj\Debug\net5.0\001_Interfaces.pdb
+D:\Interfaces\ConsoleApp1\obj\Debug\net5.0\001_Interfaces.genruntimeconfig.cache

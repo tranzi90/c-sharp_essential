@@ -1,44 +1,31 @@
 ﻿using System;
 
-namespace AnimalWorld
+namespace Interfaces
 {
-    abstract class Animal
+    interface IBreather { abstract void Breathe(); }
+    interface IMoving { void Move(); }
+    abstract class Animal : IBreather, IMoving
     {
-        protected abstract string Name { get; }
-        public abstract void MakeSound();
-        public void Run(Animal animal) => Console.WriteLine($"The {animal.Name} is running.");
+        public abstract void Breathe();
+        public abstract void Move();
     }
-    class Dog : Animal
+    abstract class Bird : Animal { }
+    class Canary : Bird
     {
-        protected override string Name => nameof(Dog);
-        public override void MakeSound() => Console.WriteLine("Woof-Woof");
-        public void BringStick() => Console.WriteLine("Bring a stick");
+        public override void Breathe() => Console.WriteLine("Canary.Breathe");
+        public override void Move() => Console.WriteLine("Canary.Move");
     }
-    sealed class Cat : Animal
+    class Ostrich : Bird
     {
-        protected override string Name => nameof(Cat);
-        public override void MakeSound() => Console.WriteLine("Meow-Meow");
-        public void CatchMouse() => Console.WriteLine("Catch the mouse");
+        public override void Breathe() => Console.WriteLine("Ostrich.Breathe");
+        public override void Move() => Console.WriteLine("Ostrich.Move");
     }
-    //class DomesticCat : Cat
-    //{
-    //}
+
     class Program
     {
         static void Main()
         {
 
-
-            #region Null & Dog
-            //Animal animal = null;
-            //Animal myDog = new Dog(); 
-            #endregion
-
-            #region Reflection
-            //Type type = Type.GetType("AnimalWorld.Dog");
-            //Animal animal = Activator.CreateInstance(type) as Animal;
-            //animal?.Run(new Dog()); 
-            #endregion
         }
     }
 }
